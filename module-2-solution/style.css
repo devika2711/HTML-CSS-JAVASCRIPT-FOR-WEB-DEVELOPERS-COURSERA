@@ -23,7 +23,7 @@ h1 {
 
 .box{
   width: 100%;
-  overflow: none;
+  overflow: auto;
 }
 
 
